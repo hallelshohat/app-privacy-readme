@@ -1,13 +1,17 @@
 # Doping Guard
+
+## How To Use
+First enter your country, then click "Scan" or "Search" to look up medicine names. 
+
 ## Legal Disclaimer
+By accessing and using this application ("the App"), you acknowledge and agree to the following terms:
 
-Doping Guard is provided “as is” without any warranties, express or implied. The use of this app is at your own risk. Doping Guard assumes no responsibility for any errors, disruptions, or data loss that may occur. This app does not provide legal, financial, or professional advice. Any reliance on the information provided within the app is at your own discretion.
+Informational Use Only: The App is provided solely for informational purposes to assist in determining whether specific medications or substances are likely to be permitted or prohibited under anti-doping regulations. It is not a substitute for professional medical, legal, or regulatory advice.
 
-By downloading and using Doping Guard, you agree to comply with all applicable laws and regulations. Doping Guard is not liable for any damages resulting from the use or misuse of the app. 
+No Liability: Use of the App is at your sole risk. The creators, developers, affiliates, and partners of the App shall not be held liable for any direct, indirect, incidental, or consequential damages arising from the use or misuse of the App, including but not limited to misinterpretation of results or failure to comply with applicable anti-doping rules.
 
-All photos taken inside the app are not uploaded to any server, and not saved locally inside the personal phone.
-The information contained on the app, is for general information purposes only.
-While we endeavor to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the app or the information, products, services, or related graphics contained on the app for any purpose.
-Any reliance you place on such information is therefore strictly at your own risk.
+User Responsibility: You are solely and fully responsible for verifying any information provided by the App and for any action or omission taken based on its use. Any misuse, abuse, or reliance on the App is entirely at the user's own responsibility.
 
-If you have any questions, please contact us by email at hallelsh206@gmail.com.
+Data Protection and Privacy: The App does not collect, store, or transmit any personal or identifiable user data. It is designed in full compliance with applicable data protection and privacy laws, including the GDPR and other relevant regulations.
+
+Acceptance of Terms: By proceeding, you confirm that you have read, understood, and agreed to these Terms and Conditions in full. If you do not agree, you must discontinue use of the App immediately.
